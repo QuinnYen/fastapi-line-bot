@@ -1,0 +1,10 @@
+# 忽略 資料夾
+__pycache__/
+*.pyc
+.env
+venv/
+.idea/
+
+# 忽略 檔案
+*.spec
+*.py[cod]
